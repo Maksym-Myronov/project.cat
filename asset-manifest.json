@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project.cat/static/css/main.63042625.css",
+    "main.js": "/project.cat/static/js/main.cf0268ae.js",
+    "static/media/Cat_August_2010-4.jpg": "/project.cat/static/media/Cat_August_2010-4.230676360029bbeeac16.jpg",
+    "index.html": "/project.cat/index.html",
+    "main.63042625.css.map": "/project.cat/static/css/main.63042625.css.map",
+    "main.cf0268ae.js.map": "/project.cat/static/js/main.cf0268ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63042625.css",
+    "static/js/main.cf0268ae.js"
+  ]
+}
